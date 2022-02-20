@@ -114,6 +114,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFORPNUP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Infinity Disco Lights\Design Rule Check - IDL.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
