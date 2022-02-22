@@ -135,6 +135,66 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Infinity Disco Lights\Design Rule Check - IDL.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Infinity Disco Lights\NC Drill\IDL.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Infinity Disco Lights\NC Drill\IDL.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Infinity Disco Lights\Gerber\IDL.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Infinity Disco Lights\NC Drill\IDL.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1088,6 +1148,82 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=IDL.SchLib
+ComponentDesignItemID0=Battery Holder 9v
+ComponentSymbolReference0=Battery Holder 9v
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=IDL.SchLib
+ComponentDesignItemID1=BJT NPN
+ComponentSymbolReference1=BJT NPN
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=IDL.SchLib
+ComponentDesignItemID2=Cap Ceramic
+ComponentSymbolReference2=Cap Ceramic
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=IDL.SchLib
+ComponentDesignItemID3=Cap TH Polarized
+ComponentSymbolReference3=Cap TH Polarized
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=IDL.SchLib
+ComponentDesignItemID4=CD4017B
+ComponentSymbolReference4=CD4017B
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=IDL.SchLib
+ComponentDesignItemID5=Electret Mic
+ComponentSymbolReference5=Electret Mic
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=IDL.SchLib
+ComponentDesignItemID6=LED, TH
+ComponentSymbolReference6=LED, TH
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=IDL.SchLib
+ComponentDesignItemID7=MH_M3_NPTH
+ComponentSymbolReference7=MH_M3_NPTH
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=IDL.SchLib
+ComponentDesignItemID8=Pot TH
+ComponentSymbolReference8=Pot TH
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=IDL.SchLib
+ComponentDesignItemID9=Resistor TH
+ComponentSymbolReference9=Resistor TH
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=IDL.SchLib
+ComponentDesignItemID10=Tactile switch 2 pin
+ComponentSymbolReference10=Tactile switch 2 pin
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=IDL.SchLib
+ComponentDesignItemID11=Toggle switch SPDT
+ComponentSymbolReference11=Toggle switch SPDT
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+
+[NetInfos]
+Net1=NetName=+9V|NetColor=$000083FD
+Net2=NetName=NetBT1_P|NetColor=$0089007D
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
