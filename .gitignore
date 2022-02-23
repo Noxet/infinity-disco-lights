@@ -1,5 +1,17 @@
 # Altium
+
+*.PrjPcbStructure
+
+*.drc
+Status\ Report.txt
+
+# Gerber junk
+*.RUL
+*.REP
+*.EXTREP
+*.apr
+*.APR_LIB
+
 History/
 __Previews/
 Project\ Logs*/
-Project\ Outputs*/
